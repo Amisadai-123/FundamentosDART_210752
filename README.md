@@ -16,7 +16,8 @@ Proyecto de clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |6 |Mapas |6 |Finalizada |
 |7 |Listas, Iterables y Conjunto de Datos |9 |Finalizada |
 |8 |Funciones y Parametros |11 | Finalizada|
-|9 |Clases |10 | Finalizada |
+|9 |Clases y Sobrescritura de Metodos Nativos |9 | Finalizada |
+|10 |Constructores Nombrados |8| Activa |
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
