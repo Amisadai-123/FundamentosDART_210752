@@ -9,7 +9,7 @@ void main() {
   final numeroDia = getDayNumber();
   print("En 3 dias estaremos a: ${(numeroDia+3)}");
   //3. llamado de una funcióbn con parametros
-  print(greetSomeone("Edgar Pérez Garrido"));
+  print(greetSomeone("Amisadai Fernandez Reyes"));
   //3.1 y que pasa si intercambiamos?
   print(greetSomeone(45));
   print(greetSomeone(-15));
@@ -20,18 +20,18 @@ void main() {
   print(greetSomeoneTyped(-15));
   print(greetSomeoneTyped(3.141516));
   print(greetSomeoneTyped(true));*/
-  print(greetSomeoneTyped("Edgar Pérez"));
+  print(greetSomeoneTyped("Amisadai Fernandez"));
   //4. llamado de funciones con varios parametros posicionales
   /*Para este caso los parametros deben ser enviados en la posición exacta y segun DART ambos por defecto son obligatorios*/
-  print(greetSomeoneHourOfDay("Edgar Pérez", 10));
+  print(greetSomeoneHourOfDay("Amisadai Fernandez", 10));
   /*¿Que pasa si solo envio un parametro?
    * print(greetSomeoneHourOfDay(null, null));
    * print(greetSomeoneHourOfDay("Edgar Pérez"));
    * print(greetSomeoneHourOfDay(10));*/
   /*Analizando la función determinamos que la hora del dia puede ser
    * nulo y se puede definir con la hora actual del SO*/
-  print(greetSomeoneHourOfDay("Edgar Pérez", null));
-  print(greetSomeoneHourOfDay("Edgar PG", 10));
+  print(greetSomeoneHourOfDay("Amisadai Fernandez", null));
+  print(greetSomeoneHourOfDay("Amisadai Fernandez", 10));
   
   /*5. Funciones lamda, anonimas, arrow functions, funciones flecha
    * Las funciones LAMDA, tambien conocidas como funciones anonimas
@@ -51,9 +51,9 @@ void main() {
   Costo total: ${calculaTotalCarrito(cantidad, precio, descuento)}""");
   
   //6. llamado de una función con parametros nombrados
-  print(infoCarListStatus(buyerName: "Salma"));
+  print(infoCarListStatus(buyerName: "Sana"));
   //6.1 llamado de una función con los parametros en desorden posicional
-  print(infoCarListStatus(buyerName: "Angel", amountCarList: 2588.55 ,status: "En espera del pago"));
+  print(infoCarListStatus(buyerName: "Auroera", amountCarList: 2588.55 ,status: "En espera del pago"));
 }
 
 //1.Funciones sin parametros y sin retorno de valor
