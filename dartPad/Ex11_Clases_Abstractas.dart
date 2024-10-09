@@ -55,14 +55,3 @@ class NuclearPlant implements EnergyPlant{
     energyLeft -= (amount * 0.5);
   }
 } 
-
-
-
-
-
-
-
-
-
-
-
