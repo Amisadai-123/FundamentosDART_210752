@@ -25,6 +25,7 @@ Proyecto de clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |15 |Futures |Por definir |Finalizada|
 |16 |Async Await |Por definir |Finalizada|
 |17 |Try Catch On Finally |Por definir |Finalizada|
+|18 |Streams |Por definir |Finalizada|
 
 
 ### LISTA DE HERRAMIENTAS
