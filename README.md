@@ -23,6 +23,8 @@ Proyecto de clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |13 |Clases Abstractas |11 |Finalizada|
 |14 |Mixins (Gato y Tiburon) |11 |Finalizada |
 |15 |Futures |Por definir |Finalizada|
+|16 |Async Await |Por definir |Finalizada|
+|17 |Try Catch On Finally |Por definir |Finalizada|
 
 
 ### LISTA DE HERRAMIENTAS
