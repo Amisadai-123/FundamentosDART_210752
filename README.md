@@ -22,11 +22,11 @@ Proyecto de clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |12 |Aserciones |3 |Finalizada |
 |13 |Clases Abstractas |11 |Finalizada|
 |14 |Mixins (Gato y Tiburon) |11 |Finalizada |
-|15 |Futures |Por definir |Finalizada|
-|16 |Async Await |Por definir |Finalizada|
-|17 |Try Catch On Finally |Por definir |Finalizada|
-|18 |Streams |Por definir |Finalizada|
-|19 |Stream Await |Por definir |Finalizada|
+|15 |Futures |11 |Finalizada|
+|16 |Async Await |5 |Finalizada|
+|17 |Try Catch On Finally |6 |Finalizada|
+|18 |Streams |6 |Finalizada|
+|19 |Stream Await |4 |Finalizada|
 
 
 ### LISTA DE HERRAMIENTAS
